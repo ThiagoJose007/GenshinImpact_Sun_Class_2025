@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/thago/OneDrive/Documents/BTH/GenshinImpact_Sun_Class_2025/Content/GenshinImpact/Widget/ItemSelected_WBP.uasset",
+				"C:/Users/thago/OneDrive/Documents/BTH/GenshinImpact_Sun_Class_2025/Content/GenshinImpact/Images/Accurancy_Image.uasset",
+				"C:/Users/thago/OneDrive/Documents/BTH/GenshinImpact_Sun_Class_2025/Content/GenshinImpact/Material/Degrade_Item_Acurancy_M.uasset",
+				"C:/Users/thago/OneDrive/Documents/BTH/GenshinImpact_Sun_Class_2025/Content/GenshinImpact/Widget/Forge_WBP.uasset",
 				"C:/Users/maria/OneDrive/Documentos/Unreal Projects/GenshinImpact/Content/GenshinImpact/Widget/Forge_WBP.uasset",
 				"C:/Users/maria/OneDrive/Documentos/Unreal Projects/GenshinImpact/Content/GenshinImpact/Widget/ItemSelected_WBP.uasset",
 				"C:/Users/maria/OneDrive/Documentos/Unreal Projects/GenshinImpact/Content/GenshinImpact/Blueprint/GenshinHUD_BP.uasset",
